@@ -1,0 +1,30 @@
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\appsettings.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.staticwebassets.runtime.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.exe
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.deps.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.runtimeconfig.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.dll
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\bin\Debug\net6.0\Coffee Shop Registration.pdb
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.AssemblyInfoInputs.cache
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.AssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.csproj.CoreCompileInputs.cache
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.RazorAssemblyInfo.cache
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.RazorAssemblyInfo.cs
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets\msbuild.Coffee Shop Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets\msbuild.build.Coffee Shop Registration.props
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Coffee Shop Registration.props
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Coffee Shop Registration.props
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\scopedcss\bundle\Coffee Shop Registration.styles.css
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\scopedcss\projectbundle\Coffee Shop Registration.bundle.scp.css
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.dll
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\refint\Coffee Shop Registration.dll
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.pdb
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\Coffee Shop Registration.genruntimeconfig.cache
+C:\Users\kirva\Documents\Grand Circus\HTML CSS\CoffeeShopRegistration\Coffee Shop Registration\Coffee Shop Registration\obj\Debug\net6.0\ref\Coffee Shop Registration.dll

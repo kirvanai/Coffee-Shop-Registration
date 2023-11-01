@@ -1,0 +1,21 @@
+﻿<form asp-action="User" asp-controller="Home" method="get">
+    <p>First Name</p>
+    <input type="text" name="FirstName" required pattern="[a-zA-Z]+" minlength="1" maxlength="99" />
+    <br />
+
+    <p>Last Name</p>
+    <input type="text" name="LastName" required pattern="[a-zA-Z]+" minlength="1" maxlength="99" />
+    <br />
+
+    <p>Email</p>
+    <input type="email" name="Email" required/>
+    <br />
+
+    <p>Password</p>
+    <input type="password" name="Password" required />
+    <br/>
+    <br/>
+
+    <input type="submit" value="Register" required minlength="8" maxlength="99" />
+
+</form>
