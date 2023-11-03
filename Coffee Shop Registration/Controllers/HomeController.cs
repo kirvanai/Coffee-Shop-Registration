@@ -6,10 +6,12 @@ namespace Coffee_Shop_Registration.Controllers
 {
     public class HomeController : Controller
     {
-        
-
+        //public CoffeeShopContext db = new CoffeeShopContext();
+       
         public IActionResult Index()
         {
+            //List<Product> products = db.Products.ToList();
+            //return View(products);
             return View();
         }
 
@@ -27,6 +29,13 @@ namespace Coffee_Shop_Registration.Controllers
         {
             return View();
         }
+
+        //public IActionResult Product(int Id)
+        //{
+        //    Product p = db.Products.Find(Id);
+        //    return View(p);
+        //}
+   
     
     }
 }
